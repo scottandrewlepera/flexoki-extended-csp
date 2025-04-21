@@ -2,12 +2,12 @@
 
 This is Clip Studio Paint Color Set of the Flexoki extended palette by Steph Ango.
 
-Flexoki is copyright (c) 2023 Steph Ango.
-https://stephango.com
-https://github.com/kepano/flexoki
+Flexoki is copyright (c) 2023 Steph Ango.<br />
+https://stephango.com<br />
+https://github.com/kepano/flexoki<br />
 Distributed under the MIT License.
 
-CSP color set conversion by Scott Andrew Lepera (2025).
+CSP color set conversion by Scott Andrew Lepera (2025).<br />
 https://scottandrew.com
 
 ## INSTALLATION
